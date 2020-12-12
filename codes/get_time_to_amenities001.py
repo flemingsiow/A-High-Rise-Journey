@@ -10,8 +10,8 @@ time_start = time.clock()
 path = 'Random.csv'
 path_mrt = 'MRT Stations Dataset v2.csv'
 path_sm = 'Shopping Mall Dataset v2.csv'
-email = 'flemingsiow@gmail.com'
-password = 'MysticalSquirt03!'
+email = 'youremail'
+password = 'yourpassword'
 
 
 # calling onemap rest api
