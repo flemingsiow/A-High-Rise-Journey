@@ -1,0 +1,241 @@
+Station Code,Station Status,Station Address,Opening Date,Planning Area,Connection(s),Postal,Latitude,Longitude
+NS10,Operating,Admiralty MRT Station,10-Feb-96,Woodlands,,738344,1.44058852,103.8009905
+EW9,Operating,Aljunied MRT Station,4-Nov-89,Geylang,,388310,1.316432612,103.882906
+CR11,Future,Ang Mo Kio MRT Station,7-Nov-87,Ang Mo Kio,Ang Mo Kio Bus Interchange,,1.370017,103.84945
+NS16,Operating,Ang Mo Kio MRT Station,7-Nov-87,Ang Mo Kio,Ang Mo Kio Bus Interchange,569811,1.36993285,103.8495581
+CR2,Future,Aviation Park MRT Station,2029,Changi,,,1.36989,104.00314
+JS7,Future,Bahar Junction MRT Station,2026,Jurong West,,,1.345422,103.702542
+CC12,Operating,Bartley MRT Station,28-May-09,"Serangoon, Toa Payoh",,539788,1.342501178,103.8801779
+CC34,Future,Bayfront MRT Station,14-Jan-12,Downtown Core,,,1.282347,103.859317
+CE1,Operating,Bayfront MRT Station,14-Jan-12,Downtown Core,,18957,1.281873789,103.8590798
+DT16,Operating,Bayfront MRT Station,14-Jan-12,Downtown Core,,18957,1.281873789,103.8590798
+TE29,Future,Bayshore MRT Station,2023,Bedok,,NIL,1.313122483,103.942308
+DT5,Operating,Beauty World MRT Station,27-Dec-15,Bukit Timah,Beauty World Bus Interchange,588216,1.341223176,103.7757943
+EW5,Operating,Bedok MRT Station,4-Nov-89,Bedok,Bedok Bus Interchange,467347,1.323979969,103.9299845
+DT29,Operating,Bedok North MRT Station,21-Oct-17,Bedok,,479481,1.334742117,103.9179783
+DT30,Operating,Bedok Reservoir MRT Station,21-Oct-17,Bedok,,469724,1.33660783,103.9322346
+TE30,Future,Bedok South MRT Station,2024,Bedok,Bedok South Bus Interchange,NIL,1.316888941,103.9490653
+DT21,Operating,Bencoolen MRT Station,21-Oct-17,"Museum Planning Area, Rochor",,189658,1.298918434,103.8503538
+DT23,Operating,Bendemeer MRT Station,21-Oct-17,Kallang,,339356,1.313672528,103.8629776
+NS17,Operating,Bishan MRT Station,7-Nov-87,Bishan,Bishan Bus Interchange,579827,1.350838988,103.848144
+CC15,Operating,Bishan MRT Station,7-Nov-87,Bishan,Bishan Bus Interchange,579842,1.351315801,103.8491403
+NE9,Operating,Boon Keng MRT Station,20-Jun-03,Kallang,,328260,1.319335709,103.8615695
+JS8,Future,Boon Lay MRT Station,6-Jul-90,Jurong West,Boon Lay Bus Interchange,,1.338883,103.706208
+EW27,Operating,Boon Lay MRT Station,6-Jul-90,Jurong West,Boon Lay Bus Interchange,649846,1.338604055,103.7060646
+CC19,Operating,Botanic Gardens MRT Station,8-Oct-11,Tanglin,,257494,1.322113736,103.8149845
+DT9,Operating,Botanic Gardens MRT Station,8-Oct-11,Tanglin,,259777,1.322488071,103.816014
+NS18,Operating,Braddell MRT Station,7-Nov-87,Toa Payoh,,319756,1.340469001,103.8467991
+CC2,Operating,Bras Basah MRT Station,17-Apr-10,Museum Planning Area,,189561,1.296861686,103.8506674
+NS3A,Future,Brickland MRT Station,Mid-2030s,Exact location not yet known,,,,
+TE7,Future,Bright Hill MRT Station,2021,Bishan,,575737,1.363283185,103.8328936
+CR13,Future,Bright Hill MRT Station,2021,Bishan,,,1.361778,103.832093
+NE15,Operating,Buangkok MRT Station,15-Jan-06,Sengkang,Buangkok Bus Interchange,545061,1.38287002,103.8931226
+EW12,Operating,Bugis MRT Station,4-Nov-89,"Downtown Core, Rochor",,188022,1.300464463,103.8557061
+DT14,Operating,Bugis MRT Station,4-Nov-89,"Downtown Core, Rochor",,188476,1.299313504,103.857126
+NS2,Operating,Bukit Batok MRT Station,10-Mar-90,Bukit Batok,Bukit Batok Bus Interchange,659958,1.349033312,103.7495665
+JE3,Future,Bukit Batok West MRT Station,2027,"Bukit Batok, Jurong East",,,1.34557,103.739592
+CC18,Future,Bukit Brown MRT Station,TBA,Novena,,299176,1.333728883,103.8306895
+NS3,Operating,Bukit Gombak MRT Station,10-Mar-90,Bukit Batok,,659083,1.358611591,103.7517909
+DT1,Operating,Bukit Panjang MRT Station,27-Dec-15,"Bukit Batok, Bukit Panjang, Choa Chu Kang",Bukit Panjang Bus Interchange,678213,1.379002116,103.7615351
+BP6,Operating,Bukit Panjang MRT Station,27-Dec-15,"Bukit Batok, Bukit Panjang, Choa Chu Kang",Bukit Panjang Bus Interchange,678268,1.377926946,103.7631029
+EW21,Operating,Buona Vista MRT Station,12-Mar-88,Queenstown,Buona Vista Bus Terminal  Ghim Moh Bus Terminal,139345,1.307223708,103.7902535
+CC22,Operating,Buona Vista MRT Station,12-Mar-88,Queenstown,Buona Vista Bus Terminal  Ghim Moh Bus Terminal,139350,1.306634504,103.7907094
+TE9,Future,Caldecott MRT Station,8-Oct-11,Toa Payoh,,297608,1.337245613,103.8401618
+CC17,Operating,Caldecott MRT Station,8-Oct-11,Toa Payoh,,298113,1.337674508,103.8395298
+NS12,Operating,Canberra MRT Station,2-Nov-19,Sembawang,,756972,1.443076641,103.8297026
+CC31,Future,Cantonment MRT Station,2025,Bukit Merah,,89395,1.272872146,103.8370623
+DT2,Operating,Cashew MRT Station,27-Dec-15,"Bukit Batok, Bukit Panjang",,679696,1.369815449,103.7644392
+CG2,Operating,Changi Airport MRT Station,8-Feb-02,Changi,"Singapore Changi Airport,  Changi Airport PTB2 Bus Terminal",819661,1.357478974,103.9878836
+CR1,Future,Changi Airport Terminal 5 MRT Station,TBA,Changi,,,,
+NE4,Operating,Chinatown MRT Station,20-Jun-03,Outram,,59443,1.284359593,103.8434267
+DT19,Operating,Chinatown MRT Station,20-Jun-03,Outram,,58362,1.284223919,103.8451438
+EW25,Operating,Chinese Garden MRT Station,5-Nov-88,Jurong East,,609959,1.342352821,103.7325967
+JS1,Future,Choa Chu Kang MRT Station,10-Mar-90,Choa Chu Kang,Choa Chu Kang Bus Interchange,,1.385092,103.744322
+NS4,Operating,Choa Chu Kang MRT Station,10-Mar-90,Choa Chu Kang,Choa Chu Kang Bus Interchange,689810,1.385363165,103.7443708
+BP1,Operating,Choa Chu Kang MRT Station,10-Mar-90,Choa Chu Kang,Choa Chu Kang Bus Interchange,689813,1.384755411,103.7445377
+JS2,Future,Choa Chu Kang West MRT Station,2026,Choa Chu Kang,,,,
+NS25,Operating,City Hall MRT Station,12-Dec-87,Downtown Core,,179100,1.292936722,103.8525856
+EW13,Operating,City Hall MRT Station,12-Dec-87,Downtown Core,,179100,1.292936722,103.8525856
+NE5,Operating,Clarke Quay MRT Station,20-Jun-03,Singapore River Planning Area,,59815,1.288386024,103.8465552
+EW23,Operating,Clementi MRT Station,12-Mar-88,Clementi,Clementi Bus Interchange,129580,1.315116253,103.7651915
+EW20,Operating,Commonwealth MRT Station,12-Mar-88,Queenstown,,149735,1.302501999,103.7982285
+JS5,Future,Corporation MRT Station,2026,Jurong West,,,1.352948,103.71393
+CC8,Operating,Dakota MRT Station,17-Apr-10,Geylang,,397973,1.308547984,103.8890647
+CR7,Future,Defu MRT Station,2029,Hougang,,,1.362243,103.898874
+NS24,Operating,Dhoby Ghaut MRT Station,12-Dec-87,Museum Planning Area,,238826,1.298701325,103.8461137
+NE6,Operating,Dhoby Ghaut MRT Station,12-Dec-87,Museum Planning Area,,238889,1.299705459,103.8454882
+CC1,Operating,Dhoby Ghaut MRT Station,12-Dec-87,Museum Planning Area,,238893,1.298911644,103.8462925
+EW22,Operating,Dover MRT Station,18-Oct-01,Queenstown,,138677,1.311405293,103.7786378
+DT17,Operating,Downtown MRT Station,22-Dec-13,Downtown Core,,18969,1.27944619,103.8528404
+CP2,Future,Elias MRT Station,2031,Pasir Ris,,,1.384,103.938
+JS9,Future,Enterprise MRT Station,2028,Jurong West,,,1.332678,103.708504
+CC3,Operating,Esplanade MRT Station,17-Apr-10,Downtown Core,,189562,1.293657725,103.8550812
+EW7,Operating,Eunos MRT Station,4-Nov-89,Geylang,Eunos Bus Interchange,409423,1.319783548,103.9032258
+CG1,Operating,Expo MRT Station,10-Jan-01,Tampines,,486065,1.334549778,103.9615482
+DT35,Operating,Expo MRT Station,10-Jan-01,Tampines,,485985,1.335382526,103.9623747
+NE8,Operating,Farrer Park MRT Station,20-Jun-03,"Kallang, Rochor",,218703,1.311905573,103.8534777
+CC20,Operating,Farrer Road MRT Station,8-Oct-11,"Bukit Timah, Tanglin",,268857,1.317439152,103.8073792
+DT20,Operating,Fort Canning MRT Station,21-Oct-17,"Museum Planning Area, Singapore River Planning Area",,179038,1.292481948,103.8443314
+TE22A,Future,Founders' Memorial MRT Station,2027,Marina East,,,1.2912,103.8687
+TE22,Future,Gardens by the Bay MRT Station,2021,Marina South,,19396,1.278487259,103.8674547
+JW1,Future,Gek Poh MRT Station,2026,Jurong West,,,1.348382,103.697963
+DT24,Operating,Geylang Bahru MRT Station,21-Oct-17,Kallang,,339355,1.321301102,103.8716226
+TE15,Future,Great World MRT Station,2021,"River Valley Planning Area, Singapore River Planning Area",,238384,1.293948162,103.8337208
+EW30,Operating,Gul Circle MRT Station,18-Jun-17,"Pioneer Planning Area, Tuas",,637288,1.319470901,103.6605305
+NE1,Operating,HarbourFront MRT Station,20-Jun-03,Bukit Merah,"HarbourFront Bus Interchange
+Sentosa Express",98867,1.265389384,103.8215302
+CC29,Operating,HarbourFront MRT Station,20-Jun-03,Bukit Merah,"HarbourFront Bus Interchange
+Sentosa Express",98867,1.265389384,103.8215302
+TE16,Future,Havelock MRT Station,2021,Bukit Merah,,168604,1.28850524,103.8335858
+CC25,Operating,Haw Par Villa MRT Station,8-Oct-11,Queenstown,,117396,1.282571358,103.7817527
+DT3,Operating,Hillview MRT Station,27-Dec-15,"Bukit Batok, Bukit Panjang",,678211,1.362344868,103.7674183
+CC21,Operating,Holland Village MRT Station,8-Oct-11,"Bukit Timah, Queenstown",,278995,1.312240296,103.7963991
+JS4,Future,Hong Kah MRT Station,2026,Tengah,,,1.35795,103.72586
+CR8,Future,Hougang MRT Station,20-Jun-03,Hougang,Hougang Central Bus Interchange,,1.371292,103.892161
+NE14,Operating,Hougang MRT Station,20-Jun-03,Hougang,Hougang Central Bus Interchange,538758,1.371292266,103.8923805
+DT4,Future,Hume MRT Station,2025,"Bukit Batok, Bukit Panjang",,,1.35465,103.76904
+DT22,Operating,Jalan Besar MRT Station,21-Oct-17,Rochor,,208826,1.305171388,103.8552957
+EW29,Operating,Joo Koon MRT Station,28-Feb-09,Pioneer Planning Area,Joo Koon Bus Interchange,629116,1.327717041,103.678375
+JE5,Future,Jurong East MRT Station,10-Mar-90,Jurong East,Jurong East Temporary Bus Interchange,,1.333415,103.742119
+NS1,Operating,Jurong East MRT Station,10-Mar-90,Jurong East,Jurong East Temporary Bus Interchange,609690,1.333152816,103.7422863
+EW24,Operating,Jurong East MRT Station,10-Mar-90,Jurong East,Jurong East Temporary Bus Interchange,609690,1.333152816,103.7422863
+JS11,Future,Jurong Hill MRT Station,2028,Boon Lay,,,1.31866,103.7102
+JS12,Future,Jurong Pier MRT Station,2028,"Boon Lay, Jurong East",,,1.31315,103.71034
+JE6,Future,Jurong Town Hall MRT Station,2027,Jurong East,,,1.326,103.746
+JS6,Future,Jurong West MRT Station,2026,Jurong West,,,1.34919,103.70831
+DT28,Operating,Kaki Bukit MRT Station,21-Oct-17,Bedok,,415804,1.33496736,103.9084593
+EW10,Operating,Kallang MRT Station,4-Nov-89,Kallang,Lorong 1 Geylang Bus Terminal,387405,1.31148891,103.8713865
+TE24,Future,Katong Park MRT Station,2023,"Kallang, Marine Parade",,437870,1.297947905,103.8860802
+EW6,Operating,Kembangan MRT Station,4-Nov-89,Bedok,,416551,1.321038134,103.9129479
+CC24,Operating,Kent Ridge MRT Station,8-Oct-11,Queenstown,,118177,1.293533499,103.7845727
+CC30,Future,Keppel MRT Station,2025,Bukit Merah,,99423,1.269772201,103.8300315
+NS14,Operating,Khatib MRT Station,20-Dec-88,Yishun,,769092,1.41738337,103.8329799
+DT6,Operating,King Albert Park MRT Station,27-Dec-15,Bukit Timah,,599987,1.335661613,103.7833991
+NE13,Operating,Kovan MRT Station,20-Jun-03,Hougang,,534799,1.360179171,103.8850649
+NS7,Operating,Kranji MRT Station,10-Feb-96,Sungei Kadut,,738702,1.425086981,103.7621375
+CC27,Operating,Labrador Park MRT Station,8-Oct-11,Bukit Merah,,109029,1.272254177,103.8026316
+EW26,Operating,Lakeside MRT Station,5-Nov-88,Jurong West,,649845,1.344259115,103.7209491
+EW11,Operating,Lavender MRT Station,4-Nov-89,Kallang,,208699,1.307377817,103.8627676
+TE5,Future,Lentor MRT Station,2021,Ang Mo Kio,,789361,1.38550658,103.8357438
+NE7,Operating,Little India MRT Station,20-Jun-03,"Kallang, Rochor",,229900,1.306800197,103.8496471
+DT12,Operating,Little India MRT Station,20-Jun-03,"Kallang, Rochor",,229902,1.307018268,103.8486609
+CC14,Operating,Lorong Chuan MRT Station,28-May-09,Serangoon,,554533,1.351612171,103.8641519
+CR3,Future,Loyang MRT Station,2029,Pasir Ris,,,1.372,103.972
+CC10,Operating,MacPherson MRT Station,17-Apr-10,Geylang,,409048,1.326077602,103.8903913
+DT26,Operating,MacPherson MRT Station,17-Apr-10,Geylang,,378956,1.326150245,103.8892986
+TE20,Future,Marina Bay MRT Station,4-Nov-89,"Downtown Core, Straits View Planning Area",,18929,1.274741732,103.8553092
+CC33,Future,Marina Bay MRT Station,14-Jan-12,"Downtown Core, Straits View Planning Area",,,1.276097,103.854675
+NS27,Operating,Marina Bay MRT Station,4-Nov-89,"Downtown Core, Straits View Planning Area",,18925,1.276410299,103.8545955
+CE2,Operating,Marina Bay MRT Station,4-Nov-89,"Downtown Core, Straits View Planning Area",,18926,1.276251464,103.8554472
+TE21,Future,Marina South MRT Station,2021,"Marina South, Straits View Planning Area",,19397,1.274554759,103.8635743
+NS28,Operating,Marina South Pier MRT Station,23-Nov-14,Straits View Planning Area,Marina South Pier,18948,1.271027036,103.8624475
+TE26,Future,Marine Parade MRT Station,2023,Marine Parade,,NIL,1.302630145,103.9049619
+TE27,Future,Marine Terrace MRT Station,2023,"Bedok, Marine Parade",,NIL,1.306665103,103.9151067
+NS8,Operating,Marsiling MRT Station,10-Feb-96,Woodlands,,739044,1.432521149,103.7740746
+CC16,Operating,Marymount MRT Station,28-May-09,Bishan,,573993,1.348707263,103.8394231
+DT25,Operating,Mattar MRT Station,21-Oct-17,Geylang,,379314,1.326876715,103.8832475
+TE18,Future,Maxwell MRT Station,2021,"Downtown Core, Outram",,58841,1.280533298,103.8438837
+TE6,Future,Mayflower MRT Station,2021,Ang Mo Kio,,569900,1.371463188,103.8365678
+TE10,Future,Mount Pleasant MRT Station,2021,Novena,,NIL,1.328517954,103.8346883
+CC7,Operating,Mountbatten MRT Station,17-Apr-10,"Geylang, Kallang",,398006,1.306201905,103.8825281
+JW4,Future,Nanyang Crescent MRT Station,2028,Western Water Catchment,,,1.34836,103.68085
+JW3,Future,Nanyang Gateway MRT Station,2028,Western Water Catchment,,,1.35369,103.68661
+TE12,Future,Napier MRT Station,2021,Tanglin,,258511,1.306783078,103.818967
+NS21,Operating,Newton MRT Station,12-Dec-87,Newton,,228234,1.312318922,103.8379846
+DT11,Operating,Newton MRT Station,12-Dec-87,Newton,,229901,1.313992863,103.8377146
+CC5,Operating,Nicoll Highway MRT Station,17-Apr-10,Downtown Core,,38970,1.299766847,103.863637
+NS20,Operating,Novena MRT Station,12-Dec-87,Novena,,307642,1.320440791,103.8438256
+CC23,Operating,one-north MRT Station,8-Oct-11,Queenstown,,138647,1.299759875,103.7874575
+TE13,Future,Orchard Boulevard MRT Station,2021,"Orchard Planning Area, River Valley Planning Area",,248654,1.302422248,103.8238685
+TE14,Future,Orchard MRT Station,12-Dec-87,"Orchard Planning Area, River Valley Planning Area",,237974,1.303044263,103.831375
+NS22,Operating,Orchard MRT Station,12-Dec-87,"Orchard Planning Area, River Valley Planning Area",,238878,1.303979934,103.8322453
+TE17,Future,Outram Park MRT Station,12-Dec-87,"Bukit Merah, Outram",Kampong Bahru Bus Terminal,169080,1.281329644,103.8391376
+EW16,Operating,Outram Park MRT Station,12-Dec-87,"Bukit Merah, Outram",Kampong Bahru Bus Terminal,169037,1.281405048,103.839131
+NE3,Operating,Outram Park MRT Station,12-Dec-87,"Bukit Merah, Outram",Kampong Bahru Bus Terminal,59816,1.279720594,103.8394399
+JE7,Future,Pandan Reservoir MRT Station,2027,Jurong East,,,1.32,103.745
+CC26,Operating,Pasir Panjang MRT Station,8-Oct-11,Queenstown,,117424,1.276213522,103.7913503
+CR4,Future,Pasir Ris East MRT Station,2029,Pasir Ris,,,1.366,103.961
+CR5,Future,Pasir Ris MRT Station,16-Dec-89,Pasir Ris,Pasir Ris Bus Interchange,,1.372411,103.949369
+CP1,Future,Pasir Ris MRT Station,16-Dec-89,Pasir Ris,Pasir Ris Bus Interchange,,1.372411,103.949369
+EW1,Operating,Pasir Ris MRT Station,16-Dec-89,Pasir Ris,Pasir Ris Bus Interchange,519634,1.373043316,103.9492845
+EW8,Operating,Paya Lebar MRT Station,4-Nov-89,Geylang,,409006,1.318111492,103.8930608
+CC9,Operating,Paya Lebar MRT Station,4-Nov-89,Geylang,,409049,1.317247385,103.8922608
+JW5,Future,Peng Kang Hill MRT Station,2028,Western Water Catchment,,,1.34326,103.67849
+EW28,Operating,Pioneer MRT Station,28-Feb-09,Jurong West,,648310,1.337587011,103.6973216
+NE10,Operating,Potong Pasir MRT Station,20-Jun-03,Toa Payoh,,347694,1.33137949,103.8690557
+CC32,Future,Prince Edward Road MRT Station,2025,Downtown Core,,79122,1.273156936,103.8470971
+CC4,Operating,Promenade MRT Station,17-Apr-10,Downtown Core,Marina Centre Bus Terminal,39193,1.293997986,103.86035
+DT15,Operating,Promenade MRT Station,17-Apr-10,Downtown Core,Marina Centre Bus Terminal,39194,1.292891754,103.8608918
+NE18,Future,Punggol Coast MRT Station,2024,Punggol,Punggol North Bus Interchange,NIL,1.415306868,103.9105946
+CP4,Future,Punggol MRT Station,20-Jun-03,Punggol,Punggol Temporary Bus Interchange,,1.405264,103.902097
+NE17,Operating,Punggol MRT Station,20-Jun-03,Punggol,Punggol Temporary Bus Interchange,828868,1.404546537,103.9020726
+PTC,Operating,Punggol MRT Station,20-Jun-03,Punggol,Punggol Temporary Bus Interchange,828868,1.405194701,103.9024119
+EW19,Operating,Queenstown MRT Station,12-Mar-88,Queenstown,,149729,1.294550852,103.8060772
+NS26,Operating,Raffles Place MRT Station,12-Dec-87,Downtown Core,,48618,1.28412561,103.8514617
+EW14,Operating,Raffles Place MRT Station,12-Dec-87,Downtown Core,,48618,1.28412561,103.8514617
+EW18,Operating,Redhill MRT Station,12-Mar-88,Bukit Merah,,158792,1.289634534,103.816741
+CP3,Future,Riviera MRT Station,2031,Punggol,,,1.394439,103.916772
+PE4,Operating,Riviera MRT Station,2031,Punggol,,828852,1.394519785,103.9161694
+DT13,Operating,Rochor MRT Station,27-Dec-15,Rochor,,188505,1.303852185,103.8527694
+NS11,Operating,Sembawang MRT Station,10-Feb-96,Sembawang,Sembawang Bus Interchange,759775,1.449050822,103.8200461
+NE16,Operating,Sengkang MRT Station,20-Jun-03,Sengkang,"Compassvale Bus Interchange
+ Sengkang Bus Interchange",545062,1.391694626,103.8954847
+STC,Operating,Sengkang MRT Station,20-Jun-03,Sengkang,"Compassvale Bus Interchange
+ Sengkang Bus Interchange",545062,1.391609364,103.8954426
+NE12,Operating,Serangoon MRT Station,20-Jun-03,Serangoon,Serangoon Bus Interchange,534801,1.349707881,103.8735748
+CC13,Operating,Serangoon MRT Station,20-Jun-03,Serangoon,Serangoon Bus Interchange,556082,1.350633615,103.8727717
+CR9,Future,Serangoon North MRT Station,2029,"Hougang, Serangoon",,,1.37067,103.8736
+TE19,Future,Shenton Way MRT Station,2021,Downtown Core,,18928,1.277716828,103.8503676
+TE28,Future,Siglap MRT Station,2023,Bedok,,NIL,1.310008551,103.9300258
+EW3,Operating,Simei MRT Station,16-Dec-89,Tampines,,529888,1.343197079,103.9533772
+DT7,Operating,Sixth Avenue MRT Station,27-Dec-15,Bukit Timah,,269784,1.330857645,103.7969068
+NS23,Operating,Somerset MRT Station,12-Dec-87,Orchard Planning Area,,238162,1.300264167,103.8390858
+TE4,Future,Springleaf MRT Station,2021,Yishun,,787140,1.397581061,103.8178569
+CC6,Operating,Stadium MRT Station,17-Apr-10,Kallang,,397692,1.302812468,103.8753377
+TE11,Future,Stevens MRT Station,27-Dec-15,"Novena, Tanglin",,257879,1.319334374,103.825567
+DT10,Operating,Stevens MRT Station,27-Dec-15,"Novena, Tanglin",,257877,1.320065558,103.8260244
+DT37,Future,Sungei Bedok MRT Station,2024,Bedok,,NIL,1.320401487,103.9571838
+TE31,Future,Sungei Bedok MRT Station,2024,Bedok,,NIL,1.320401487,103.9571838
+NS6,Future,Sungei Kadut MRT Station,Mid-2030s,Sungei Kadut,,,,
+DT,Future,Sungei Kadut MRT Station,Mid-2030s,Sungei Kadut,,,,
+CC11,Operating,Tai Seng MRT Station,17-Apr-10,"Hougang, Toa Payoh",,534803,1.335141501,103.8883893
+DT33,Operating,Tampines East MRT Station,21-Oct-17,Tampines,,529623,1.356191483,103.9546345
+EW2,Operating,Tampines MRT Station,16-Dec-89,Tampines,"Tampines Bus Interchange,  Tampines Concourse Bus Interchange",529538,1.353301676,103.9451446
+DT32,Operating,Tampines MRT Station,16-Dec-89,Tampines,"Tampines Bus Interchange,  Tampines Concourse Bus Interchange",529544,1.355150411,103.9430099
+CR6,Future,Tampines North MRT Station,2029,Tampines,Tampines North Bus Interchange,,1.36919,103.93786
+DT31,Operating,Tampines West MRT Station,21-Oct-17,Tampines,,529683,1.345515306,103.938437
+DT8,Operating,Tan Kah Kee MRT Station,27-Dec-15,Bukit Timah,,266268,1.325556235,103.8077603
+TE,Future,Tanah Merah MRT Station,4-Nov-89,Bedok,,,1.327358,103.946344
+EW4,Operating,Tanah Merah MRT Station,4-Nov-89,Bedok,,467356,1.327187291,103.9463486
+CG,Operating,Tanah Merah MRT Station,4-Nov-89,Bedok,,,,
+TE25,Future,Tanjong Katong MRT Station,2023,Marine Parade,,439846,1.299319257,103.8973687
+EW15,Operating,Tanjong Pagar MRT Station,12-Dec-87,Downtown Core,Shenton Way Bus Terminal,69119,1.276561317,103.8457252
+TE23,Future,Tanjong Rhu MRT Station,2023,Kallang,,436488,1.297265079,103.8734533
+CR10,Future,Tavistock MRT Station,2029,Serangoon,,,1.37004,103.86328
+JW2,Future,Tawas MRT Station,2026,Western Water Catchment,,,1.35056,103.69185
+CR12,Future,Teck Ghee MRT Station,2029,"Ang Mo Kio, Bishan",,,1.36564,103.84362
+DT18,Operating,Telok Ayer MRT Station,22-Dec-13,"Downtown Core, Outram",,48416,1.282068948,103.8486488
+CC28,Operating,Telok Blangah MRT Station,8-Oct-11,Bukit Merah,,109028,1.270706477,103.8097616
+JS3,Future,Tengah MRT Station,2026,Tengah,Tengah Bus Interchange,,1.36633,103.73007
+JE2,Future,Tengah Park MRT Station,2027,"Bukit Batok, Tengah",,,1.35235,103.73679
+JE1,Future,Tengah Plantation MRT Station,2027,Tengah,,,1.35731,103.73342
+EW17,Operating,Tiong Bahru MRT Station,12-Mar-88,Bukit Merah,,168731,1.286102536,103.8274451
+NS19,Operating,Toa Payoh MRT Station,7-Nov-87,Toa Payoh,Toa Payoh Bus Interchange,319398,1.332629281,103.8475022
+JE4,Future,Toh Guan MRT Station,2027,Jurong East,,,1.33984,103.7425
+EW31,Operating,Tuas Crescent MRT Station,18-Jun-17,Tuas,,639608,1.321026956,103.6490782
+EW33,Operating,Tuas Link MRT Station,18-Jun-17,Tuas,Tuas Bus Terminal,638418,1.340882425,103.6369914
+EW32,Operating,Tuas West Road MRT Station,18-Jun-17,Tuas,,639609,1.329985047,103.6396166
+JS10,Future,Tukang MRT Station,2028,Boon Lay,,,1.32533,103.70924
+DT27,Operating,Ubi MRT Station,21-Oct-17,Geylang,,408899,1.32997426,103.8992267
+DT34,Operating,Upper Changi MRT Station,21-Oct-17,Tampines,,485990,1.341739784,103.9614726
+TE8,Future,Upper Thomson MRT Station,2021,Bishan,,577937,1.354416434,103.8328985
+NS9,Operating,Woodlands MRT Station,10-Feb-96,Woodlands,Woodlands Temporary Bus Interchange,738343,1.43681963,103.7860668
+TE2,Operating,Woodlands MRT Station,10-Feb-96,Woodlands,Woodlands Temporary Bus Interchange,737736,1.436057617,103.7879388
+TE1,Operating,Woodlands North MRT Station,31-Jan-20,Woodlands,,737668,1.448292453,103.7856927
+RTS,Operating,Woodlands North MRT Station,31-Jan-20,Woodlands,,,,
+TE3,Operating,Woodlands South MRT Station,31-Jan-20,Woodlands,,737741,1.427396053,103.7932643
+NE11,Operating,Woodleigh MRT Station,20-Jun-11,Toa Payoh,Bidadari Bus Interchange,347695,1.339190045,103.8708183
+DT36,Future,Xilin MRT Station,2024,Tampines,,NIL,1.328906949,103.9649026
+NS5,Operating,Yew Tee MRT Station,10-Feb-96,Choa Chu Kang,,689715,1.397535069,103.7474052
+NS15,Operating,Yio Chu Kang MRT Station,7-Nov-87,Ang Mo Kio,Yio Chu Kang Bus Interchange,569813,1.381755871,103.8449473
+NS13,Operating,Yishun MRT Station,20-Dec-88,Yishun,Yishun Bus Interchange,769093,1.429443085,103.835005
